@@ -3,8 +3,13 @@
 
 O projeto consiste em buscador de ip, onde o usuário insere o ip desejado e a localização do ip é exibida em um mapa iterativo, bem como as informações referentes ao ip.
 
-![App demonstation](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o5bHVhMng4dHBmOW1xbTk4OXJ4emlmaW1hYjlyeXpoNHFsdGNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fcGSqRtyk56yVBuEH9/giphy.gif)
-![App Screenshot](https://uploaddeimagens.com.br/images/004/802/417/full/Blue_And_White_Modern_Responsive_Website_Development_Services_Instagram_Post_%282%29.png?1718936529)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3o5bHVhMng4dHBmOW1xbTk4OXJ4emlmaW1hYjlyeXpoNHFsdGNpdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fcGSqRtyk56yVBuEH9/giphy.gif" alt="App demonstation" />
+</p>
+
+<p align="center">
+  <img src="https://uploaddeimagens.com.br/images/004/802/417/full/Blue_And_White_Modern_Responsive_Website_Development_Services_Instagram_Post_%282%29.png?1718936529" alt="App Screenshot" />
+</p>
 
 ## Funcionalidades
 1. Busca de IP:
